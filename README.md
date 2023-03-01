@@ -100,7 +100,7 @@ int main()
 
 - [x] Task 1
 - [x] Task 2
-- [] Task 3
+- [v] Task 3
 
 </br>
 
