@@ -137,7 +137,8 @@ https://github.com
 
 ### Table Syntex
 
-| Name          | Email                  |
-| ------------- | ---------------------- |
-| Akib Ahmed    | akibahmed229@gmail.com |
-| Yeanur Rashid | yeanur@gmail.com       |
+| Name           | Email                  |
+| -------------- | ---------------------- |
+| Akib Ahmed     | akibahmed229@gmail.com |
+| Yeanur Rashid  | yeanur@gmail.com       |
+| Ishmam Hossine | ishmam@gmail.com       |
